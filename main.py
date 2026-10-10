@@ -7,7 +7,7 @@ from kivy.core.window import Window
 import json, webbrowser
 
 Window.clearcolor = (0.04, 0.07, 0.06, 1)
-URL = "RAW_LINK_HERE"
+URL = "https://raw.githubusercontent.com/zain2007mttn-ux/tv-app/main/channels.json"
 C = [(0.1, 0.6, 0.35, 1), (0.85, 0.65, 0.1, 1), (0.15, 0.5, 0.75, 1)]
 
 class SadiqKora(App):
